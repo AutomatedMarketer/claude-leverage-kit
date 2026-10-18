@@ -1,0 +1,16 @@
+{
+  "name": "leverage-kit",
+  "description": "A free starter kit for getting far more out of Claude: better prompts, the right model, and your whole plan used before it resets.",
+  "owner": {
+    "name": "Nuno Tavares",
+    "url": "https://www.youtube.com/@AutomatedMarketer"
+  },
+  "plugins": [
+    {
+      "name": "leverage-kit",
+      "source": "./",
+      "description": "Make every Claude request more ambitious: a prompt builder, a model picker and a plan maximizer that chain together or run alone.",
+      "version": "1.0.0"
+    }
+  ]
+}

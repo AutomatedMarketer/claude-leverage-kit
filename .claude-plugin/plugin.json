@@ -1,0 +1,13 @@
+{
+  "name": "leverage-kit",
+  "version": "1.0.0",
+  "description": "Make every Claude request more ambitious: a prompt builder, a model picker and a plan maximizer that chain together or run alone.",
+  "author": {
+    "name": "Nuno Tavares",
+    "url": "https://www.youtube.com/@AutomatedMarketer"
+  },
+  "homepage": "https://github.com/AutomatedMarketer/claude-leverage-kit",
+  "repository": "https://github.com/AutomatedMarketer/claude-leverage-kit",
+  "license": "MIT",
+  "keywords": ["prompts", "models", "usage", "beginners", "productivity"]
+}
