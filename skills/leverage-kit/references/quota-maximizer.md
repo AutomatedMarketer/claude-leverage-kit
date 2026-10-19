@@ -1,4 +1,4 @@
-# Plan maximizer
+# Quota maximizer
 
 Paid Claude plans have usage limits that reset on a schedule: a short session window (a few
 hours) and a weekly limit. Weekly usage you don't spend before the reset is gone. This part

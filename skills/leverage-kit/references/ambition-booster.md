@@ -1,4 +1,4 @@
-# The ambition questions
+# The ambition booster
 
 Use on **important** jobs only. Three questions turn "do this task" into "get this result, the
 way a top professional would, checked by something other than the model".

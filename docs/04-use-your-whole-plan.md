@@ -4,7 +4,7 @@ Paid Claude plans have usage limits that reset on a schedule: a short window of 
 and a weekly limit. **Weekly usage you don't spend before the reset is gone.** It's easy to
 let a chunk of it expire without noticing.
 
-The plan maximizer finds that spare usage and spends it on your most valuable work.
+The quota maximizer finds that spare usage and spends it on your most valuable work.
 
 ## How to use it
 

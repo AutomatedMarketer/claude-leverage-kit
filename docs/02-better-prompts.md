@@ -1,6 +1,6 @@
 # 02 · Better prompts
 
-The prompt builder turns a rough request into a strong one. You can type the way you talk.
+The prompt optimizer turns a rough request into a strong one. You can type the way you talk.
 It does the structuring.
 
 ## How to use it

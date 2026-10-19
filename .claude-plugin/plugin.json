@@ -1,7 +1,7 @@
 {
   "name": "leverage-kit",
   "version": "1.0.0",
-  "description": "Make every Claude request more ambitious: a prompt builder, a model picker and a plan maximizer that chain together or run alone.",
+  "description": "Make every Claude request more ambitious: a prompt optimizer, an ambition booster and a quota maximizer, plus a model picker. They chain together or run alone.",
   "author": {
     "name": "Nuno Tavares",
     "url": "https://www.youtube.com/@AutomatedMarketer"

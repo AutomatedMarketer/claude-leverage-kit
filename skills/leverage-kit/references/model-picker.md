@@ -32,7 +32,7 @@ Not sure? Use **Opus 5.5 at medium effort**.
 | **Wider** | Several fields and critics on something that matters | Opus medium leading; Sonnet medium helpers; Haiku for quick scans | Team of helpers (ask first) |
 | **Outcome** | "Keep this true" or a long job that runs on its own | Opus medium; Fable high if Opus falls short | Solo plus a repeatable check |
 
-**From the prompt builder's size:** Quick → Faster. Important with a team → Wider. Important
+**From the prompt optimizer's size:** Quick → Faster. Important with a team → Wider. Important
 with "keep this true" or a repeatable workflow → Outcome. Any other Important job → Deeper.
 
 Effort is the "how hard to think" dial. Higher effort is slower and uses more of the plan. Start

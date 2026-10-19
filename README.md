@@ -3,13 +3,14 @@
 **AI is leverage. Learn to use it.**
 
 A free starter kit for people who are new to Claude and want to get far more out of it,
-starting today. One install gives Claude three new habits:
+starting today. One install gives you three gifts (plus a bonus):
 
-| Part | What it does for you |
+| Gift | What it does for you |
 |---|---|
-| **1. Prompt builder** | Turns your rough, rambling request into a strong prompt: the real goal, how an expert would do it, and how you'll know it's right |
-| **2. Model picker** | Tells you which Claude model and effort level to use, and when a job deserves a team of helpers |
-| **3. Plan maximizer** | Checks how much of your Claude plan is left before it resets, and spends the spare on your most valuable work |
+| **1. Prompt optimizer** | Turns your rough, rambling request into a strong prompt: the real goal, how a professional would do it, and how you'll know it's right |
+| **2. Ambition booster** | On important jobs, pushes Claude to aim higher, go deeper and bring in a team of specialists (including critics) |
+| **3. Quota maximizer** | Checks how much of your Claude plan is left before it resets, and spends the spare on your most valuable work |
+| **Bonus: Model picker** | Tells you which Claude model and effort level to use, and when a job deserves a team of helpers |
 
 They work alone, or chained together: **build the prompt → pick the model → do the work → check it.**
 
@@ -134,13 +135,15 @@ The full playbook: [docs/05-the-1-percent-playbook.md](docs/05-the-1-percent-pla
 | [05 · The 1% playbook](docs/05-the-1-percent-playbook.md) | The habits that make AI results stand out |
 | [06 · Examples](docs/06-examples.md) | Before-and-after prompts for real business jobs |
 
+**Free presentations:** the slide decks from the videos, as PDFs, are in [presentations/](presentations/).
+
 ---
 
 ## Questions
 
 **Does it cost anything?** No. The kit is free. It runs inside the Claude plan you already have.
 
-**Does it work on the free plan?** The prompt builder and model picker work on any plan that supports skills. The plan maximizer is most useful on paid plans, which have weekly limits.
+**Does it work on the free plan?** The prompt optimizer and model picker work on any plan that supports skills. The quota maximizer is most useful on paid plans, which have weekly limits.
 
 **Will it change my settings or do things on its own?** No. It suggests models and effort levels; you choose them. It never sends, posts, buys or deletes anything without asking you first.
 

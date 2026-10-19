@@ -1,4 +1,4 @@
-# Prompt builder template and rules
+# Prompt optimizer template and rules
 
 ## Contents
 - The template
